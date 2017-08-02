@@ -20,6 +20,7 @@
   <preference name="android-minSdkVersion" value="14" />
   <preference name="android-targetSdkVersion" value="19" />
   <preference name="AppendUserAgent" value="MoodleMobile" />
+  <preference name="AutoHideSplashScreen" value="true"/>
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
